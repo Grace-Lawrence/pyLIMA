@@ -3,6 +3,7 @@ mock
 nose
 pytest
 
+VBBinaryLensing
 scipy>=1.2.0
 numpy==1.15.0
 matplotlib>=3.0.2
